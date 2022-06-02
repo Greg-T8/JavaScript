@@ -2,7 +2,13 @@
 This page is a collection of my notes on the JavaScript programming language. I'm new at JavaScript and am using this resource for my learning journey: https://javascript.info.
 
 # JavaScript Introduction
+**Reference**
+- https://javascript.info/intro
+
+
 JavaScript was initially created to "make web pages alive". JavaScript initially had another name called "LiveScript", but Java was very popular at the time, so it was decided that positioning a new language as a "younger brother" would help.
+
+JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
 
 JavaScript can execute in the browser and on the server, or on any device that has the [JavaScript Engine](https://en.wikipedia.org/wiki/JavaScript_engine). The browser has an embedded engine called a "JavaScript virtual machine". Different engines have different code names:
 - Chrome and Edge use the [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) JavaScript engine
@@ -28,3 +34,4 @@ There are a few spinoff languages from JavaScript. These languages are *transpil
 - [Brython](https://brython.info/) - a Python 3 implementation of JavaScript
 - [Kotlin](https://kotlinlang.org/docs/getting-started.html) - a modern, concise, and safe programming language that can target the browser or Node
 
+The resource recommends to look at each of the languages above after mastering JavaScript.
