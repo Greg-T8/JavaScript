@@ -35,3 +35,16 @@ There are a few spinoff languages from JavaScript. These languages are *transpil
 - [Kotlin](https://kotlinlang.org/docs/getting-started.html) - a modern, concise, and safe programming language that can target the browser or Node
 
 The resource recommends to look at each of the languages above after mastering JavaScript.
+
+## Manuals and Specifications
+**Reference:**
+- https://javascript.info/manuals-specifications
+
+The [ECMA-262 specification](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) defines the language, but it's not for every day use. The [MDN Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) is the main manual with examples and other information. Use this for every day reference.
+
+The following two resources are also helpful allow for understanding support among browser-based and other engines:
+- http://caniuse.com - per-feature tables of support
+- https://kangax.github.io/compat-table/es6/ - a table with language features and engines that support those or don't support
+
+
+
