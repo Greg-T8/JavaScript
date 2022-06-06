@@ -2,6 +2,9 @@
 **Reference:**
 - https://javascript.info/first-steps
 
+- [Hello, World!](#hello-world)
+- [Code Structure](#code-structure)
+
 ## Hello, World!
 **Reference**
 - https://javascript.info/hello-world
