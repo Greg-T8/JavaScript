@@ -8,7 +8,7 @@
 
 The simplest way to create a Hello World script is to use the `<script>` tag:
 
-```HTML
+```HTML,JavaScript
 <!DOCTYPE html>
 <html>
   <body>
