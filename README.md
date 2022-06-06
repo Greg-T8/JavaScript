@@ -1,5 +1,7 @@
 # My JavaScript Notes
-This page is a collection of my notes on the JavaScript programming language. I'm new at JavaScript and am using this resource for my learning journey: https://javascript.info.
-
+This repository is a collection of my notes as I learn the basics of the JavaScript programming language. 
 - [x] [Introduction](/1-Introduction/index.md)
 - [ ] [JavaScript Fundamentals](/2-Fundamentals/index.md)
+
+I am using the following resource to as a learning guide:
+- https://javascript.info
