@@ -5,8 +5,11 @@
 **Topics**
 - [Hello, World!](#hello-world)
 - [Code Structure and Comments](#code-structure)
+- [Abut Strict Mode](#about-strict-mode)
 
 ## Hello, World!
+<details>
+
 **Reference**
 - https://javascript.info/hello-world
 
@@ -45,8 +48,11 @@ Alternatively, you can place the code `alert ('Hello, world!")` in a separate fi
   </body>
 </html>
 ```
+</details>
 
 ## Code Structure
+<details>
+
 **Reference**
 - https://javascript.info/structure
 
@@ -66,6 +72,9 @@ alert(3 +
 In the code above, JavaScript understands the "+" indicates an incomplete expression, and does not apply a semicolon. However, there are situations where JavaScript fails to assume a semicolon where it is really needed, so the **authors recommend putting semicolons between statements even if they are separated by newlines**.
 
 ### Comments
+**Reference**
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types#comments
+
 One-line comments start with two forward slash characters `//`:
 ```JavaScript
 // This comment occupies a line of its own
@@ -79,3 +88,16 @@ This is a multiline comment.
 */
 alert('Hello');
 ```
+</details>
+
+## About Strict Mode
+<details>
+
+**Reference**
+- https://javascript.info/strict-mode
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+
+You may see scripts that start with the directive `use strict`. This directive enables new modifications to JavaScript introduced by the [ECMAScript 5 (ES5)](https://262.ecma-international.org/5.1/) language specification.
+
+When you add `"use strict"` to a script, you're telling the script to behave the "modern" way. You can add this directive at the beginning of the script or at the beginning of a function. Once you add it, there's no way to cancel or deactivate it -- once you enter strict mode, there's no going back.
+</details>
