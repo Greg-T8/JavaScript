@@ -5,12 +5,12 @@
 **Topics**
 - [Hello, World!](#hello-world)
 - [Code Structure and Comments](#code-structure)
-- [Abut Strict Mode](#about-strict-mode)
+- [About Strict Mode](#about-strict-mode)
 
 ## Hello, World!
 <details>
 
-**Reference**
+**References**
 - https://javascript.info/hello-world
 
 The simplest way to create a Hello World script is to use the `<script>` tag:
@@ -100,4 +100,13 @@ alert('Hello');
 You may see scripts that start with the directive `use strict`. This directive enables new modifications to JavaScript introduced by the [ECMAScript 5 (ES5)](https://262.ecma-international.org/5.1/) language specification.
 
 When you add `"use strict"` to a script, you're telling the script to behave the "modern" way. You can add this directive at the beginning of the script or at the beginning of a function. Once you add it, there's no way to cancel or deactivate it -- once you enter strict mode, there's no going back.
+
+Strict mode doesn't run in the developer console by default, and sometimes you'll get incorrect results when using `use strict`. 
+
+JavaScript classes and modules uses strict mode automatically, so you generally don't need to use the `use script` directive. 
 </details>
+
+## Variables
+**Reference**
+- https://javascript.info/variables
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types#variables
