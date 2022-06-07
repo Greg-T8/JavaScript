@@ -9,9 +9,6 @@
 ## Hello, World!
 <details>
 
-**References**
-- https://javascript.info/hello-world
-
 The simplest way to create a Hello World script is to use the `<script>` tag:
 
 ```HTML,JavaScript
@@ -47,6 +44,8 @@ Alternatively, you can place the code `alert ('Hello, world!")` in a separate fi
   </body>
 </html>
 ```
+**References**
+- https://javascript.info/hello-world
 </details>
 
 ## Code Structure and Comments
