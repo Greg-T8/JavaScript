@@ -4,8 +4,9 @@
 
 **Topics**
 - [Hello, World!](#hello-world)
-- [Code Structure and Comments](#code-structure)
+- [Code Structure and Comments](#code-structure-and-comments)
 - [About Strict Mode](#about-strict-mode)
+- [Variables](#variables)
 
 ## Hello, World!
 <details>
@@ -50,7 +51,7 @@ Alternatively, you can place the code `alert ('Hello, world!")` in a separate fi
 ```
 </details>
 
-## Code Structure
+## Code Structure and Comments
 <details>
 
 **Reference**
