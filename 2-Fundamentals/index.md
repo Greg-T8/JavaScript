@@ -51,9 +51,6 @@ Alternatively, you can place the code `alert ('Hello, world!")` in a separate fi
 ## Code Structure and Comments
 <details>
 
-**Reference**
-- https://javascript.info/structure
-
 ### Statements
 Statements are typically written on separate lines to make the code more readable. Semicolons may be omitted in most cases where a line break exists:
 
@@ -69,9 +66,10 @@ alert(3 +
 ```
 In the code above, JavaScript understands the "+" indicates an incomplete expression, and does not apply a semicolon. However, there are situations where JavaScript fails to assume a semicolon where it is really needed, so the **authors recommend putting semicolons between statements even if they are separated by newlines**.
 
-### Comments
 **Reference**
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types#comments
+- https://javascript.info/structure
+
+### Comments
 
 One-line comments start with two forward slash characters `//`:
 ```JavaScript
@@ -86,6 +84,9 @@ This is a multiline comment.
 */
 alert('Hello');
 ```
+
+**Reference**
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types#comments
 </details>
 
 ## About Strict Mode
