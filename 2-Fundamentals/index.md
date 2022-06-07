@@ -1,6 +1,4 @@
 # JavaScript Fundamentals
-**Reference:**
-- https://javascript.info/first-steps
 
 **Topics**
 - [Hello, World!](#hello-world)
